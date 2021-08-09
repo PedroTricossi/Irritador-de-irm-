@@ -17,3 +17,4 @@ def personagem(anime):
 def frase(anime):
 
     return anime.json()["quote"]
+
